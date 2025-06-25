@@ -1,5 +1,6 @@
 # SOS-FoMT-VH
 Story of Seasons: Friends of Mineral Town Việt Hoá
+
 ![header](https://github.com/user-attachments/assets/bba0b841-4156-45ed-b3f4-a52bc387da40)
 
 # Hướng dẫn tiếng việt:
