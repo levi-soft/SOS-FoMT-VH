@@ -4,6 +4,8 @@
 # Hướng dẫn tiếng việt:
 Tải xuống file Việt hoá: [Tại đây](https://github.com/levi-soft/SOS-FoMT-VH/releases/)
 
+Phiên bản Windows (steam):
+
 Giải nén tất cả file rồi chép vào thư mục game SOS:FoMT
 
 Chạy file mod_language.exe để chạy phần mềm mod game
@@ -12,10 +14,18 @@ Bấm Install để cài đặt ngôn ngữ tiếng việt
 
 Bấm Restore để khôi phục lại ngôn ngữ tiếng anh
 
-Chú ý: mod này hỗ trợ phiên bản Steam v1.0.4 trở lên
+Chú ý: mod này hỗ trợ phiên bản Steam v1.0.4
+
+Phiên bản Switch:
+
+Giả nén tất cả file rồi chép vào thư mục "content"
+
+Chú ý: mod này hỗ trợ phiên bản switch v1.0.4
 
 # English instructions:
 Download file: [Here](https://github.com/levi-soft/SOS-FoMT-VH/releases/)
+
+Windows (steam):
 
 Unzip all files and copy them to the SOS:FoMT game folder
 
@@ -25,4 +35,10 @@ Click Install to install Vietnamese language
 
 Click Restore to restore English language
 
-Note: this mod supports Steam version v1.0.4 or higher
+Note: this mod supports Steam version v1.0.4
+
+Switch:
+
+Unzip all files and copy them to "content" folder
+
+Note: this mod supports Switch version v1.0.4
